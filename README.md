@@ -30,4 +30,4 @@ Analista SOC en formación y desarrolladora de software. Me enfocada en el monit
 
 ---
 
-📫 **Contacto:** [Tu LinkedIn](https://linkedin.com/in/tu-usuario) | [Tu Correo](mailto:tu-email@correo.com)
+📫 **Contacto:** [Tu LinkedIn](https://www.linkedin.com/in/irma-suarez/) | [Tu Correo](mailto:dens42514@gmail.com)
