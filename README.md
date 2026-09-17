@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Soy Irma
 
-<!--
-**Deni-0295/Deni-0295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista SOC en formación y desarrolladora de software. Me enfocada en el monitoreo de seguridad, análisis de tráfico de red y respuesta a incidentes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Sobre mí
+
+* 🔭 Actualmente trabajando en: Proyectos de análisis de tráfico con **Wireshark** y análisis de amenazas.
+* 🎓 Formación: Grado en Ingeniería | Certificaciones en Redes y Ciberseguridad (Cisco).
+* 🛠️ Habilidades adicionales: Desarrollo web y scripting para automatización con **Python**.
+* 🌐 Idiomas: Español (Nativo), Inglés.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+**Seguridad y Redes**
+`Wireshark` | `Nmap` | `Cisco Packet Tracer` | `TCP/IP` | `Análisis de Logs`
+
+**Desarrollo y Scripts**
+`Python` | `JavaScript` | `TypeScript` | `HTML5/CSS3` | `Git & GitHub`
+
+---
+
+### 📂 Proyectos Destacados
+
+* [**Nombre-del-Proyecto-1**](link-al-repo) — Análisis de captura de tráfico (PCAP) utilizando Wireshark para identificar tráfico malicioso.
+* [**Nombre-del-Proyecto-2**](link-al-repo) — Documentación y laboratorios prácticos de respuesta a incidentes y análisis SOC.
+
+---
+
+📫 **Contacto:** [Tu LinkedIn](https://linkedin.com/in/tu-usuario) | [Tu Correo](mailto:tu-email@correo.com)
