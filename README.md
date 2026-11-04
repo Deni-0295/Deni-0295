@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1"/>
-  <img src="hero.svg?v=1" width="100%" alt="Chuchita · Analista SOC en formación"/>
+  <source media="(prefers-color-scheme: light)" srcset="light/banner-light.svg?v=1"/>
+  <img src="perfil/hero.svg?v=1" width="100%" alt="Chuchita · Analista SOC en formación"/>
 </picture>
 
 <picture>
@@ -15,7 +15,7 @@
 
 <br>
 <picture>
-<img src="sec-sobre-mi.svg?v=1" width="100%" alt="01"/>
+<img src="titulos/sec-sobre-mi.svg?v=1" width="100%" alt="01"/>
 </picture>
 
 Ingeniera Mecatrónica con experiencia en desarrollo front-end (Angular, Ionic), en transición hacia **ciberseguridad y operaciones SOC**.
@@ -24,74 +24,76 @@ Me estoy formando con programas de Cisco y Microsoft para trabajar en el área d
 <br>
 
 <picture>
-<img src="sec-stack.svg?v=1" width="100%" alt="02"/>
+<img src="titulos/sec-stack.svg?v=1" width="100%" alt="02"/>
 </picture>
 
-<picture>
-<img src="stack.svg?v=1" width="100%" alt="Stack y herramientas"/>
-</picture>
-<br>
-<br>
+<picture><source media="(prefers-color-scheme: light)" srcset="light/stack-light.svg?v=1"/><img src="perfil/stack.svg?v=1" width="100%" alt="Stack y herramientas"/></picture>
 
-<picture>
-<img src="sec-progreso.svg?v=1" width="100%" alt="03"/>
-</picture>
-
-<picture>
-<img src="progreso.svg?v=1" width="100%" alt="Progreso por herramienta"/>
-</picture>
 <br>
 <br>
 
 <picture>
-<img src="sec-insignias.svg?v=1" width="100%" alt="04"/>
+<img src="titulos/sec-progreso.svg?v=1" width="100%" alt="03"/>
 </picture>
-<picture>
-<img src="insignias.svg?v=1" width="100%" alt="Insignias y certificaciones"/>
-  </picture>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="light/progreso-light.svg?v=1"/><img src="labs/progreso.svg?v=1" width="100%" alt="Progreso por herramienta"/></picture>
 <br>
 <br>
 
 <picture>
-<img src="sec-proyectos.svg?v=1" width="100%" alt="05"/>
+<img src="titulos/sec-insignias.svg?v=1" width="100%" alt="04"/>
+</picture>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="light/insignias-light.svg?v=1"/><img src="perfil/insignias.svg?v=1" width="100%" alt="Insignias y certificaciones"/></picture>
+<br>
+<br>
+
+<picture>
+<img src="titulos/sec-proyectos.svg?v=1" width="100%" alt="05"/>
 </picture>
 <!--
-<a href="https://github.com/deni-0/lab-cisco-ccst"><img src="proj-3.svg?v=1" width="49%" alt="proyecto 1"/></a>
-<a href="https://github.com/deni-0/lab-microsoft"><img src="proj-2.svg?v=1" width="49%" alt="proyecto 2"/></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/01-Networking"><picture><source media="(prefers-color-scheme: light)" srcset="proj-1-light.svg?v=1"/><img src="proj-1.svg?v=1" width="49%" alt="carpeta 1"/></picture></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/02-Linux-Windows"><picture><source media="(prefers-color-scheme: light)" srcset="proj-2-light.svg?v=1"/><img src="proj-2.svg?v=1" width="49%" alt="carpeta 2"/></picture></a>
 -->
-<a href="https://github.com/Deni-0295/cybersecurity-portfolio/tree/main/03-SOC-Labs"><img src="labs/proj-3.svg?v=1" width="49%" alt="proyecto 3"/></a>
+<a href="https://github.com/Deni-0295/cybersecurity-portfolio/tree/main/03-SOC-Labs"><picture><source media="(prefers-color-scheme: light)" srcset="light/labs/proj-3-light.svg?v=1"/><img src="labs/proj-3.svg?v=1" width="49%" alt="carpeta 3"/></picture></a>
 <!--
-<a href="https://github.com/deni-0/tryhackme-nmap"><img src="proj-4.svg?v=1" width="49%" alt="proyecto 4"/></a>
-<a href="https://github.com/deni-0/home-lab-soc"><img src="proj-5.svg?v=1" width="49%" alt="proyecto 5"/></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/04-SIEM"><picture><source media="(prefers-color-scheme: light)" srcset="proj-4-light.svg?v=1"/><img src="proj-4.svg?v=1" width="49%" alt="carpeta 4"/></picture></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/05-Detection-Rules"><picture><source media="(prefers-color-scheme: light)" srcset="proj-5-light.svg?v=1"/><img src="proj-5.svg?v=1" width="49%" alt="carpeta 5"/></picture></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/06-Threat-Intelligence"><picture><source media="(prefers-color-scheme: light)" srcset="proj-6-light.svg?v=1"/><img src="proj-6.svg?v=1" width="49%" alt="carpeta 6"/></picture></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/07-Incident-Reports"><picture><source media="(prefers-color-scheme: light)" srcset="proj-7-light.svg?v=1"/><img src="proj-7.svg?v=1" width="49%" alt="carpeta 7"/></picture></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/08-Scripts"><picture><source media="(prefers-color-scheme: light)" srcset="proj-8-light.svg?v=1"/><img src="proj-8.svg?v=1" width="49%" alt="carpeta 8"/></picture></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/09-MITRE-ATT%26CK"><picture><source media="(prefers-color-scheme: light)" srcset="proj-9-light.svg?v=1"/><img src="proj-9.svg?v=1" width="49%" alt="carpeta 9"/></picture></a>
+<a href="https://github.com/deni-0/soc-labs/tree/main/10-Vulnerability-Analysis"><picture><source media="(prefers-color-scheme: light)" srcset="proj-10-light.svg?v=1"/><img src="proj-10.svg?v=1" width="49%" alt="carpeta 10"/></picture></a>
 -->
-<a href="https://github.com/Deni-0295/mi-primera-app-con-microsoft-azure"><img src="proj-2.svg?v=1" width="49%" alt="proyecto 2"/></a>
-<a href="https://github.com/Deni-0295/miprimerapagina"><img src="proj-6.svg?v=1" width="49%" alt="proyecto 6"/></a>
+<a href="https://github.com/Deni-0295/mi-primera-app-con-microsoft-azure"><picture><source media="(prefers-color-scheme: light)" srcset="ligth/labs/proj-2-light.svg?v=1"/><img src="proyectos/proj-2.svg?v=1" width="49%" alt="proyecto 2"/></picture></a>
+<a href="https://github.com/Deni-0295/miprimerapagina"><picture><source media="(prefers-color-scheme: light)" srcset="ligth/labs/proj-6-light.svg?v=1"/><img src="proyectos/proj-6.svg?v=1" width="49%" alt="proyecto 6"/></picture></a>
 
 <br>
 <br>
 
 <picture>
-<img src="sec-dashboard.svg?v=1" width="100%" alt="06"/>
+<img src="titulos/sec-dashboard.svg?v=1" width="100%" alt="06"/>
 </picture>
 
-<picture>
-<img src="id-dashboard.svg?v=1" width="100%" alt="Dashboard"/>
-  </picture>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="light/id-dashboard-light.svg?v=1"/><img src="perfil/id-dashboard.svg?v=1" width="100%" alt="Dashboard"/></picture>
 <br>
 <br>
 
 <picture>
-<img src="sec-actividad.svg?v=1" width="100%" alt="07" style="cursor: default;"/>
+<img src="titulos/sec-actividad.svg?v=1" width="100%" alt="07" style="cursor: default;"/>
 <picture>
 
 <picture>
-<img src="https://raw.githubusercontent.com/Deni-0295/Deni-0295/output/github-contribution-grid-snake-dark.svg?v=2" width="100%" alt="Serpiente de contribuciones"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deni-0295/Deni-0295/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deni-0295/Deni-0295/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Deni-0295/Deni-0295/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Serpiente de contribuciones"/>
 </picture>
 <br>
 <br>
 
 <picture>
-<img src="sec-contribuciones.svg?v=1" width="100%" alt="08"/>
+<img src="titulos/sec-contribuciones.svg?v=1" width="100%" alt="08"/>
 <picture>
 
 <picture>
@@ -101,28 +103,24 @@ Me estoy formando con programas de Cisco y Microsoft para trabajar en el área d
 <br>
 
 <picture>
-<img src="sec-ahora.svg?v=1" width="100%" alt="09"/>
+<img src="titulos/sec-ahora.svg?v=1" width="100%" alt="09"/>
 </picture>
 
 <div align="center" style="display: flex; width: 100%;">
-  <picture>
-<img src="sobre-mi.svg?v=1" width="49%" alt="Qué estoy construyendo"/>
-    </picture>
-  <picture>
-<img src="ahora.svg?v=1" width="49%" alt="En qué estoy trabajando ahora"/>
-    </picture>
+  
+<picture><source media="(prefers-color-scheme: light)" srcset="light/ahora-light.svg?v=1"/><img src="perfil/ahora.svg?v=1" width="49%" alt="En qué estoy trabajando ahora"/></picture>
+  <picture><source media="(prefers-color-scheme: light)" srcset="light/sobre-mi-light.svg?v=1"/><img src="titulos/sobre-mi.svg?v=1" width="49%" alt="Qué estoy construyendo"/></picture>
 </div>
 <br>
 <br>
 
 <picture>
-<img src="sec-contacto.svg?v=1" width="100%" alt="10"/>
+<img src="titulos/sec-contacto.svg?v=1" width="100%" alt="10"/>
 </picture>
-<picture>
-<img src="connect.svg?v=1" width="100%" alt="Conectemos"/>
-</picture>
-<a href="https://github.com/Deni-0295"><img src="connect-github.svg?v=1" width="49%" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/irma-suarez/"><img src="connect-linkedin.svg?v=1" width="49%" alt="LinkedIn"/></a>
-<a href="mailto:dens42514@gmail.com"><img src="connect-correo.svg?v=1" width="49%" alt="Correo"/></a>
-<a href="https://tryhackme.com/p/Deni0295"><img src="connect-tryhackme.svg?v=1" width="49%" alt="TryHackMe"/></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="light/connect-light.svg?v=1"/><img src="perfil/connect.svg?v=1" width="100%" alt="Conectemos"/></picture>
+<a href="https://github.com/Deni-0295"><picture><source media="(prefers-color-scheme: light)" srcset="light/connect-github-light.svg?v=1"/><img src="perfil/connect-github.svg?v=1" width="49%" alt="GitHub"/></picture></a>
+<a href="https://www.linkedin.com/in/irma-suarez/"><picture><source media="(prefers-color-scheme: light)" srcset="light/connect-linkedin-light.svg?v=1"/><img src="perfil/connect-linkedin.svg?v=1" width="49%" alt="LinkedIn"/></picture></a>
+<a href="mailto:dens42514@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="light/connect-correo-light.svg?v=1"/><img src="perfil/connect-correo.svg?v=1" width="49%" alt="Correo"/></picture></a>
+<a href="https://tryhackme.com/p/Deni0295"><picture><source media="(prefers-color-scheme: light)" srcset="light/connect-tryhackme-light.svg?v=1"/><img src="perfil/connect-tryhackme.svg?v=1" width="49%" alt="TryHackMe"/></picture></a>
+
 </div>
