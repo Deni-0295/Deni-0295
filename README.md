@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="light/banner-light.svg?v=1"/>
-  <img src="perfil/hero.svg?v=1" width="100%" alt="Chuchita · Analista SOC en formación"/>
+  <img src="perfil/hero.svg?v=1" width="100%" alt="Ciberseguridad en formación"/>
 </picture>
 
 <picture>
@@ -97,7 +97,8 @@ Me estoy formando con programas de Cisco y Microsoft para trabajar en el área d
 <picture>
 
 <picture>
-  <img src="profile-3d-contrib/profile-night-view.svg?v=1" width="100%" alt="Contribuciones en 3D"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deni-0295/Deni-0295/3d-output/profile-green-animate.svg"/>
+  <img src="https://raw.githubusercontent.com/Deni-0295/Deni-0295/3d-output/profile-night-view.svg" width="100%" alt="Contribuciones en 3D"/>
 </picture>
 <br>
 <br>
@@ -107,9 +108,9 @@ Me estoy formando con programas de Cisco y Microsoft para trabajar en el área d
 </picture>
 
 <div align="center" style="display: flex; width: 100%;">
-  
+    <picture><source media="(prefers-color-scheme: light)" srcset="light/sobre-mi-light.svg?v=1"/><img src="titulos/sobre-mi.svg?v=1" width="49%" alt="Qué estoy construyendo"/></picture>
 <picture><source media="(prefers-color-scheme: light)" srcset="light/ahora-light.svg?v=1"/><img src="perfil/ahora.svg?v=1" width="49%" alt="En qué estoy trabajando ahora"/></picture>
-  <picture><source media="(prefers-color-scheme: light)" srcset="light/sobre-mi-light.svg?v=1"/><img src="titulos/sobre-mi.svg?v=1" width="49%" alt="Qué estoy construyendo"/></picture>
+
 </div>
 <br>
 <br>
