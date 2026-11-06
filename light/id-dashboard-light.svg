@@ -25,7 +25,7 @@
 <rect x="475" y="200" width="480" height="300" rx="14" fill="#f1f5f9" stroke="url(#g)" stroke-opacity=".6"/>
 <text x="495" y="235" font-size="16" fill="#0891b2">now:</text>
 <text x="495" y="275" font-size="16" fill="#0f172a">&gt; Fundamentos de Ciberseguridad (CISCO)</text>
-<text x="495" y="310" font-size="16" fill="#0f172a">&gt; Ciberseguridad con tecnologías Microsoft (INFOTEC)</text>
+<text x="495" y="310" font-size="16" fill="#0f172a">&gt; Ciberseguridad con tecnologías Microsoft</text>
 <text x="495" y="345" font-size="16" fill="#0f172a">&gt; Preparando laboratorios con Splunk y Wazuh</text>
 <text x="495" y="380" font-size="16" fill="#0f172a">&gt; Realizando laboratorios en TryHackMe</text>
 <text x="495" y="415" font-size="16" fill="#0f172a">&gt; Tecnología + Ciberseguridad → Blue Team</text>
