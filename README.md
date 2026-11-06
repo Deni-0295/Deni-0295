@@ -51,6 +51,11 @@ Me estoy formando con programas de Cisco y Microsoft para trabajar en el área d
 <picture>
 <img src="titulos/sec-proyectos.svg?v=1" width="100%" alt="05"/>
 </picture>
+
+<div align="start">
+Haz clic en una tarjeta para ver el proyecto en detalle.
+</div>
+<br>
 <!--
 <a href="https://github.com/deni-0/soc-labs/tree/main/01-Networking"><picture><source media="(prefers-color-scheme: light)" srcset="proj-1-light.svg?v=1"/><img src="proj-1.svg?v=1" width="49%" alt="carpeta 1"/></picture></a>
 <a href="https://github.com/deni-0/soc-labs/tree/main/02-Linux-Windows"><picture><source media="(prefers-color-scheme: light)" srcset="proj-2-light.svg?v=1"/><img src="proj-2.svg?v=1" width="49%" alt="carpeta 2"/></picture></a>
