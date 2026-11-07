@@ -71,7 +71,7 @@ Haz clic en una tarjeta para ver el proyecto en detalle.
 <a href="https://github.com/deni-0/soc-labs/tree/main/10-Vulnerability-Analysis"><picture><source media="(prefers-color-scheme: light)" srcset="proj-10-light.svg?v=1"/><img src="proj-10.svg?v=1" width="49%" alt="carpeta 10"/></picture></a>
 -->
 <a href="https://github.com/Deni-0295/laboratorios-microsoft"><picture><source media="(prefers-color-scheme: light)" srcset="light/proyectos/proj-2-light.svg?v=1"/><img src="proyectos/proj-2.svg?v=1" width="49%" alt="proyecto 2"/></picture></a>
-<a href="https://github.com/Deni-0295/miprimerapagina"><picture><source media="(prefers-color-scheme: light)" srcset="light/proyectos/proj-6-light.svg?v=1"/><img src="proyectos/proj-6.svg?v=1" width="49%" alt="proyecto 6"/></picture></a>
+<a href="https://github.com/Deni-0295?tab=repositories"><picture><source media="(prefers-color-scheme: light)" srcset="light/proyectos/proj-6-light.svg?v=1"/><img src="proyectos/proj-6.svg?v=1" width="49%" alt="proyecto 6"/></picture></a>
 
 <br>
 <br>
